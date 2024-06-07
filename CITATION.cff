@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dahl_Edmunds_2024_BMS
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Adelaide
+    name-particle: D
+    family-names: Dahl
+    email: adelaide.d.dahl@gmail.com
+    orcid: 'https://orcid.org/0009-0007-2754-4533'
+    affiliation: 'California State University, Northridge'
+  - given-names: Peter
+    name-particle: J
+    family-names: Edmunds
+    email: Peter.edmunds@csun.edu
+    orcid: 'https://orcid.org/0000-0002-9039-9347'
+    affiliation: 'California State University, Northridge'
+identifiers:
+  - type: url
+    value: 'https://github.com/adelaidedahl/Dahl_Edmunds_2024_BMS'
+repository-code: 'https://github.com/adelaidedahl/Dahl_Edmunds_2024_BMS'
